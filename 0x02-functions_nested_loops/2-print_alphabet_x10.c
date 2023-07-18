@@ -6,7 +6,7 @@
  * print_alphabet_x10 - Print all the alpahbet in lowercase
  *Return: void
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 		char c;
 
