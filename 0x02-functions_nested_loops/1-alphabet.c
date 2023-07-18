@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * Print_alphabet - Print all the alpahbet in lowercase
+ * print_alphabet - Print all the alpahbet in lowercase
  *Return: void
  */
 void print_alphabet(void)
