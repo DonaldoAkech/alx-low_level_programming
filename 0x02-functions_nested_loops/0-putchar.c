@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include <time.h>
+#include <main.h>
+
 /**
  * main - Entry point
  * Return: Always 0
@@ -16,5 +17,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 	return (0);
 }
