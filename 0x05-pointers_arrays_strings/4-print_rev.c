@@ -3,10 +3,11 @@
 
 /**
  * print_rev - print a string in reverse
- * @: The string to print
+ * @s: The string to print
  * Return: void
  */
 void print_rev(char *s)
+
 {
 
 	int c = 0;
